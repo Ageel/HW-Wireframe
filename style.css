@@ -64,6 +64,7 @@ article {
 	border-left: 20px solid #777;
 	border-right: 20px solid #777;
 	padding-top: 15px;
+	padding-bottom: 8px;
 	/*align-content: center;*/
 	position: fixed;
 	top: 330px;
@@ -77,7 +78,8 @@ article {
 	color: gray;
 	border-left: 20px solid #777;
 	border-right: 20px solid #777;
-	padding-top: 15px;
+	padding-top: 8px;
+	padding-bottom: 15px;
 	position: fixed;
 	top: 400px;
 	width: 436px;
