@@ -59,12 +59,15 @@ article {
 .headers{
 	height: 40px;
 	background-color: #ebebeb;
-	display: block;
+	/*display: block;*/
 	color: gray;
 	border-left: 20px solid #777;
 	border-right: 20px solid #777;
 	padding-top: 15px;
 	/*align-content: center;*/
+	position: fixed;
+	top: 330px;
+	width: 436px;
 }
 
 .paragraph {
@@ -74,8 +77,11 @@ article {
 	color: gray;
 	border-left: 20px solid #777;
 	border-right: 20px solid #777;
-	/*padding-top: 7px;*/
-	
+	padding-top: 15px;
+	position: fixed;
+	top: 400px;
+	width: 436px;
+
 }
 
 aside{
